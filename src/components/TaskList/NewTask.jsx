@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { AuthContext } from "../../context/AuthProvider";
 
-export default function AcceptTask({ data }) {
+export default function newTask({ data }) {
     const [userData, setUserData] = useContext(AuthContext);
 
     const handleAccept = () => {
