@@ -1,5 +1,28 @@
 # Employee Management System (EMS)
 
+## Admin Login Details
+- **Email:** admin@me.com
+- **Password:** 123
+
+## Employee Login Details
+1. **Employee 1**
+   - **Email:** employee1@example.com
+   - **Password:** 123
+2. **Employee 2**
+   - **Email:** employee2@example.com
+   - **Password:** 123
+3. **Employee 3**
+   - **Email:** employee3@example.com
+   - **Password:** 123
+4. **Employee 4**
+   - **Email:** employee4@example.com
+   - **Password:** 123
+5. **Employee 5**
+   - **Email:** employee5@example.com
+   - **Password:** 123
+
+---
+
 ## Overview
 This is an Employee Management System (EMS) built using React, Tailwind CSS, and localStorage. The application allows users to manage employees, assign tasks, track employee activity, and more, with a modern and responsive user interface.
 
