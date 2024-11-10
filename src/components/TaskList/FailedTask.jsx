@@ -1,4 +1,4 @@
-export default function AcceptTask({ data }) {
+export default function FailedTask({ data }) {
     return (
         <div className="p-6 mx-4 rounded-lg shadow-lg w-[300px] h-[350px] text-white bg-red-500 flex flex-col justify-between flex-shrink-0">
             <div>
