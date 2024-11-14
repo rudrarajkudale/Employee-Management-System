@@ -16,7 +16,7 @@ export default function Login({ handleLogin }) {
     };
 
     const employeeLogin = () => {
-        handleLogin("employee1@me.com", "123");
+        handleLogin("rudra@me.com", "123");
     };
 
     return (

@@ -35,44 +35,6 @@ The EMS leverages `localStorage` to store data persistently across sessions. If 
 - **EmployeeList**: Displays all employees along with their active task counts and details.
 - **EmployeePage**: Shows a detailed view for each employee, including task history and status.
 
-## Local Setup
-
-1. **Clone the Repository**  
-   ```bash
-   git clone <repository-link>
-   cd <repository-folder>
-   ```
-
-2. **Install Dependencies**  
-   ```bash
-   npm install
-   ```
-
-3. **Run the Application**  
-   ```bash
-   npm run dev
-   ```
-   - Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-4. **Login Credentials**
-
-   - **Admin Login**  
-     - Email: `admin@me.com`
-     - Password: `123`
-
-   - **Employee Logins**
-     - **Employee 1**  
-       - Email: `employee1@me.com`
-     - **Employee 2**  
-       - Email: `employee2@me.com`
-     - **Employee 3**  
-       - Email: `employee3@me.com`
-     - **Employee 4**  
-       - Email: `employee4@me.com`
-     - **Employee 5**  
-       - Email: `employee5@me.com`
-
-   *(Note: Password for all employees is `123`)*
 
 ## Screenshots
 
@@ -89,3 +51,24 @@ The EMS leverages `localStorage` to store data persistently across sessions. If 
 3. **Employee Page**
 
    ![Employee Page](./src/assets/employee.png)
+
+
+## Login Credentials**
+
+   - **Admin Login**  
+     - Email: `admin@me.com`
+     - Password: `123`
+
+   - **Employee Logins**
+     - **Employee 1**  
+       - Email: `rudra@me.com`
+     - **Employee 2**  
+       - Email: `employee2@me.com`
+     - **Employee 3**  
+       - Email: `employee3@me.com`
+     - **Employee 4**  
+       - Email: `employee4@me.com`
+     - **Employee 5**  
+       - Email: `employee5@me.com`
+
+   *(Note: Password for all employees is `123`)*
