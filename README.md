@@ -75,9 +75,12 @@ The EMS leverages `localStorage` to store data persistently across sessions. If 
    *(Note: Password for all employees is `123`)*
 
 ## Screenshots
+
 1. **Login Page**
    ![Login Page](./src/assets/login.png)
+
 2. **Admin Page**
    ![Admin Page](./src/assets/admin.png)
+   
 3. **Employee Page**
    ![Employee Page](./src/assets/employee.png)
